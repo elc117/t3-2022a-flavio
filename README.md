@@ -307,3 +307,10 @@ instance Functor Tree where
 E testando:
 
 ![10](imgs/10.png)
+
+# Referências 
+- [A Gentle Introduction to Haskell](https://www.haskell.org/tutorial/index.html)
+- [Zvon - Haskell Reference](http://zvon.org/other/haskell/Outputprelude/index.html)
+- [Grupo de EStudos em Haskell da UFABC](https://haskell.pesquisa.ufabc.edu.br)
+- [GHC.Classes.hs](https://hackage.haskell.org/package/base-4.3.1.0/docs/src/GHC-Classes.html)
+- Várias perguntas do [StackOverflow](https://stackoverflow.com/) 
