@@ -1,4 +1,3 @@
-# Sim, o Flávio está atrasado
 # 1. Classes, Datatypes e Instances
 Em Haskell, a todo momento usamos os mesmos operadores para diferentes tipos de dados. O maior exemplo disso é o operador “==” que verifica igualdade. 1 == 1 é verdadeiro, mas “opa” == “opa” também é. Usar funções para tipos diferentes, desta forma, é algo que parece trivial, mas esconde um segredo assustador dentro da linguagem: classes.
 
